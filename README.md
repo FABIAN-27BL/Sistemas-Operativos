@@ -1,2 +1,14 @@
-# Sistemas-Operativos
-Proyecto final de la materia de SO I 2024
+<center> <img src="./md/images/itgam_cover.png" atl="Itgam banner"> </center>
+
+# SISTEMAS-OPERATIVOS
+
+## 🧾Descripción
+PROYECTO FINAL SO
+
+## 👤Autor
+
+[Fabian MS](https://github.com/FABIAN-27BL)
+
+## 🌿 Ramas del Proyecto
+
+[🏆 S04E99 Proyecto Final](https://github.com/FABIAN-27BL/Sistemas-Operativos)
